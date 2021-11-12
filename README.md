@@ -13,7 +13,6 @@ python3 nexscanner.py
 
 # Screenshots
 ![img](nexscanner.png)
-![img](nexscanner2.png)
 
 # Author
 Anonymous Hacks(4anonz)
