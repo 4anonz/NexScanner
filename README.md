@@ -12,7 +12,7 @@ python3 nexscanner.py
 ```
 
 # Screenshots
-![img](nexscanner.png)
+![img](20211112_014634.jpg)
 
 # Author
 Anonymous Hacks(4anonz)
