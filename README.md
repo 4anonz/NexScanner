@@ -10,7 +10,6 @@ cd NexScanner
 pip3 install -r requirements.txt
 python3 nexscanner.py
 ```
-
 # Screenshots
 ![img](nexscanner.png)
 
